@@ -1,2 +1,7 @@
 # Game
-game for DAM course final work
+
+Arcade machine with several arcade games.
+-Snake
+-Sudoku
+-Bricks Breaker
+-Space Invaders
